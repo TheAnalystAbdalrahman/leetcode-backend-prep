@@ -8,5 +8,7 @@
 - [x] 182 - Duplicate Emails (GROUP BY + HAVING)
 - [x] 217 - Contains Duplicate (Set)
 - [x] 448 - Find All Numbers Disappeared in an Array (In-place Marking)
+- [x] 3110 - Score of a String (ASCII Difference)
+
 
 
